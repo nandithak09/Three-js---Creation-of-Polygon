@@ -17,7 +17,7 @@ A web-based polygon editor using Three.js that allows users to draw, complete, c
 **Installation & Setup**
 
 1. Clone the Repository
-git clone https://github.com/https://github.com/nandithak09/Three-js---Creation-of-Polygon.gi
+git clone https://github.com/https://github.com/nandithak09/Three-js---Creation-of-Polygon.git
 2. Run Locally
 Simply open the index.html file in your browser. No additional setup is required.
 
